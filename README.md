@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Shweta Yadav</h1>
 <h3 align="center">A passionate Engineer from India</h3>
 
-- 🌱 I’m currently learning **Machine learning and Cloud computing**
+- 🌱 I’m currently learning **Python and Machine learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shwetayadav003]
 
-- 📫 How to reach me **sy413061@gmail.com**
+- 📫 How to reach me **shwetayadav6403@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
