@@ -1,24 +1,66 @@
-
 <h1 align="center">Hi 👋, I'm Shweta Yadav</h1>
-<h3 align="center">A passionate Engineer from India</h3>
+<h3 align="center">Python Backend Engineer @ Accenture | RAG • FastAPI • LangChain</h3>
 
-- 🌱 I’m currently learning **Python and Machine learning**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Shwetayadav003]
-
-- 📫 How to reach me **shwetayadav6403@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shweta-yadav-52a22b221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shweta-yadav-52a22b221" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shweta-yadav-52a22b221" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Shweta%20Yadav-blue?style=flat&logo=linkedin" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=shwetayadav003&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shwetayadav003&show_icons=true&locale=en&layout=compact" alt="shwetayadav003" /></p>
+### 👩‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shwetayadav003&show_icons=true&locale=en" alt="shwetayadav003" /></p>
+- 🏢 Associate Software Engineer at **Accenture** — building REST APIs, backend automation workflows, and AI-powered systems that reduced manual engineering effort by **50%**
+- 🤖 I build **RAG pipelines, LLM applications, and AST-based developer tools** independently
+- 🔥 **207-day LeetCode streak** — problem-solving is a daily discipline
+- 📍 Pune, India
+- 📫 Reach me at **shwetayadav6403@gmail.com**
+- 👀 Open to **Python Developer & Data Analyst** roles
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shwetayadav003&" alt="shwetayadav003" /></p>
+---
 
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [Research Analyst AI](https://github.com/Shwetayadav003/Research_Analyst) | RAG system — query PDFs with page-level citations, sub-3s response time | Python, LangChain, Gemini API, FAISS, Streamlit |
+| [Code Architecture Generator](https://github.com/Shwetayadav003/Code-Architecture--Generator) | AST-based tool that auto-generates architecture diagrams & code metrics from any Python codebase | Python, AST, Mermaid.js, Streamlit |
+| [Payment Processing System](https://github.com/Shwetayadav003/Payment_system) | Full-stack payment platform with JWT auth, Stripe integration & real-time dashboard | Python, Flask, Stripe API, SQLAlchemy, JWT |
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+**Frameworks & Tools**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**AI / ML**
+![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=flat)
+![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=flat)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shwetayadav003&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=shwetayadav003&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shwetayadav003" alt="Streak Stats" />
+</p>
