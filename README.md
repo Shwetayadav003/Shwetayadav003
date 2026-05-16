@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shweta Yadav</h1>
-<h3 align="center">Python Backend Engineer @ Accenture | RAG • FastAPI • LangChain</h3>
+<h3 align="center">Associate Software Engineer @ Accenture | RAG • FastAPI • LangChain</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shweta-yadav-52a22b221" target="_blank">
